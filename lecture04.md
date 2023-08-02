@@ -1,4 +1,4 @@
-#　第4回課題提出
+# 第4回課題提出
 
 *  AWS上に新しくVPCを作成
 
@@ -28,4 +28,4 @@
 * EC2からRDSへ接続し、正常であることを確認
 
 ![EC２に接続](https://i.ibb.co/7pqCZTd/ec2.png)
-![EC2からRDSに接続](https://i.ibb.co/yd0PjC7/ec2-rds.png)]
+![EC2からRDSに接続](https://i.ibb.co/yd0PjC7/ec2-rds.png)
