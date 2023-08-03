@@ -2,30 +2,31 @@
 
 *  AWS上に新しくVPCを作成
 
-![VPCスクリーンショット](https://i.ibb.co/KKBQZS0/vpc.png)
+![VPCスクリーンショット](https://i.ibb.co/vvsB6b2/vpc.png)
 
 * EC2インスタンスを作成
 
-![EC2スクリーンショット](https://i.ibb.co/9GfBCdf/ec2.png)
+![EC2スクリーンショット](https://i.ibb.co/KhwwnhL/ec2.png)
 
-* EC2のセキュリティ設定
+* EC2のセキュリティグループのインバウンドルール
 
-![EC2のセキュリティ設定](https://i.ibb.co/DLvjQNC/EC2.png)
+![EC2のセキュリティグループのインバウンドルール](https://i.ibb.co/jJ803Xc/ec2.png)
 
 * RDSを作成
 
-![RDSスクリーンショット](https://i.ibb.co/D1SFTQT/rds.png)
+![RDSスクリーンショット](https://i.ibb.co/Vv1QKwM/rds.png)
 
-* RDSのセキュリティ設定
+* RDSのセキュリティグループのインバウンドルール
 
-![ RDSのセキュリティ設定](https://i.ibb.co/z4ykQDD/RDS.png)
+![ RDSのセキュリティグループのインバウンドルール](https://i.ibb.co/mqJ307p/rds.png)
 
-* RDSのネットワーク設定
+* RDSのNICにアタッチされたサブネット詳細
 
-![RDSのネットワーク設定](https://i.ibb.co/bb5TkR2/rds-vpc-subnet.png)
+![RDSのNICにアタッチされたサブネット詳細-1](https://i.ibb.co/FV9hWH5/rds-NIC-1.png)
+
+![RDSのNICにアタッチされたサブネット詳細-2](https://i.ibb.co/DbhMJ8t/rds-NIC-2.png)
 
 
 * EC2からRDSへ接続し、正常であることを確認
 
-![EC２に接続](https://i.ibb.co/7pqCZTd/ec2.png)
-![EC2からRDSに接続](https://i.ibb.co/yd0PjC7/ec2-rds.png)
+![EC2からRDSに接続](https://i.ibb.co/7r08Cgs/ec2-rds.png)
